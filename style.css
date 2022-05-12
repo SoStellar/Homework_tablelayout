@@ -1,0 +1,8 @@
+table,th,td{
+    border: 1px red solid;
+    border-collapse: collapse;
+}
+tr th,td{
+    text-align: right;
+    vertical-align: text-top;
+}
