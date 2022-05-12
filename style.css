@@ -1,16 +1,8 @@
 table,th,td{
-    border: 1px black solid;
+    border: 1px red solid;
     border-collapse: collapse;
 }
-table{
-    width: 50%;
-}
-.blur {
-    filter: blur(4px);
-}
-.radius{
-    border-radius: 8px;
-}
-.rightside{
-    float: right;
+tr th,td{
+    text-align: right;
+    vertical-align: text-top;
 }
